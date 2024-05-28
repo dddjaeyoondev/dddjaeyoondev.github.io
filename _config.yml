@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "오재윤 개발 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "오재윤"
 description              : "An amazing website."
 url                      : "https://dddjaeyoondev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
