@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: "Welcome to Jekyll!"
 ---
 
-# Welcome 
+# Welcome
+
 Hello my friend!
+
+this is jae yoon 's dev blog!
+kinda cool isn't it?
